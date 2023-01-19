@@ -1,0 +1,2 @@
+I'm so excited to finally be learning programming through "The Odin Project"! /// English language
+Estou muito empolgado em estar finalmente aprendendo programação pelo "The Odin Project"! /// Portuguese-Brazil language
